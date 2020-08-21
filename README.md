@@ -34,22 +34,25 @@ We wanted to answer the following questions through our exploration and analysis
 ### Visualizations
 After completeing exploratory data analysis to answer our questions, we made graphs to help visualize our findings for the non-technical audience. We have related one or more plots to each question.
 
-`Q1.`![GitHub Logo](/Data_Visualizations_PNG/Yearly_Worldwide_Gross.png)
-`Q2.`![GitHub Logo](/Data_Visualizations_PNG/Global_Revenue_By_Decade.png) 
+`Q1.`
+![GitHub Logo](/Data_Visualizations_PNG/Yearly_Worldwide_Gross.png)
 
+`Q2.`
+![GitHub Logo](/Data_Visualizations_PNG/Global_Revenue_By_Decade.png) 
 
-`Q3.`![GitHub Logo](/stateofboxofficeanalysis/Projectgraphs/BudgetCostBreakdownByGenre.png)
-     ![GitHub Logo](/state-of-box-office-analysis/Project graphs/SumOfRevenueForTheGenres.png)
-     ![GitHub Logo](/state-of-box-office-analysis/Project graphs/SumOfRevenueForTheGenres.png)
-     ![GitHub Logo](/Data_Visualizations_PNG/Ip_v_Original.png) 
+`Q3.`
+![GitHub Logo](/Project_graphs/SumOfRevenueForTheGenres.png)
+![GitHub Logo](/Project_graphs/BudgetCostBreakdownByGenre.png)
+The Dataset Shown below is and example of some of the "safe" titles for each genre but because of the the way we got genre information there is a fair chance that some of these, when you look at context, are probably bad desicions.
+![GitHub Logo](/Project_graphs/Top3MicrosoftOwnedIpsForEachMovieGenre.png)
+![GitHub Logo](/Data_Visualizations_PNG/Ip_v_Original.png) 
 
-
-`Q4.`![GitHub Logo](/Data_Visualizations_PNG/ROI_Profit_By_Budget.png)
-
-`Q5.`![GitHub Logo](/Data_Visualizations_PNG/Blumhouse_Horror_Profits.png)
-
-`Q6.`![GitHub Logo](/Data_Visualizations_PNG/Monthly_Revenues.png)
-
+`Q4.`
+![GitHub Logo](/Data_Visualizations_PNG/ROI_Profit_By_Budget.png)
+`Q5.`
+![GitHub Logo](/Data_Visualizations_PNG/Blumhouse_Horror_Profits.png)
+`Q6.`
+![GitHub Logo](/Data_Visualizations_PNG/Monthly_Revenues.png)
 
 ## Conclusion
 ### Reccomendations
@@ -66,7 +69,7 @@ After completeing exploratory data analysis to answer our questions, we made gra
     * higher budgets yield the greatest gross profit but smaller budgets have greater return on investment. Therefore, avoid making mid budget films.
 * Release movies during the summer or holiday seasons.
     * Movies released in May, June, July, November and December result in far higher revenues than movies released during the rest of the year.
- * A good business stratagey for them would probably be to go with the lower cost option based our avoidance of mid-range priced movies and look at the most successfull title they have that is a good fit (A halo horror game would be a good example) then used this low risk medium reward situation to collect data on expenses which can further be explored and used to figure out if investing at higher amounts is worth its weight or not cause if its not no harm done.
+* A good business stratagey for them would probably be to go with the lower cost option based our avoidance of mid-range priced movies and look at the most successfull title they have that is a good fit (A halo horror game would be a good example) then used this low risk medium reward situation to collect data on expenses which can further be explored and used to figure out if investing at higher amounts is worth its weight or not cause if its not no harm done.
 ### Future Work
 We can dive even deeper in terms of research to construct our perfect and profitable movie studio. We can look to answer the following questions:
 
@@ -76,4 +79,4 @@ We can dive even deeper in terms of research to construct our perfect and profit
 * Should microsoft create its own T.V division?
 * Should we release our films on streaming services, if so, which genres are better suited for that platform?
 * Is it profitable to buy rights for novel/play adaptations?
-* How does budget allocation affect profit margins, can guide our spending with futher analysis
+* How does budget allocation affect profit margins, can guide our spending with futher analysis.
