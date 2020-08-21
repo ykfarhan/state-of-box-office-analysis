@@ -5,10 +5,19 @@ Sources: Imdb, Box Offic Mojo, The Numbers & Kaggle.
 ## Introduction
 Microsoft has set their intentions on venturing into the movie industry. They have decided to create their own movie studio. We are tasked with analyzing the state of the industry in order to guide Microsoft to take their first steps. We have relied heavily on our pre-existing knowledge of the industry and the box office in deciding which questions we would like explore. 
 ## Data Cleaning And Exploration
-From the get go we wanted to explore data regarding a movies studio, genre, prodcution budget, revenue and date. We believe that these are vital information in analyzing the state of the box office. Out of the csv files that were provided to us we used the files from Box Office Mojo and The Numbers, as they had the information that we needed. However, we need more data to work with including but not limited to data regarding sales of Microsofts video games. From Kaggle, we found a csv file with video game sales information along with their genre, console, studio etc. For further information on box office information we used webscraping to get tables from IMDb and The numbers website.
+From the get go we wanted to explore data regarding a movies studio, genre, prodcution budget, revenue and date. We believe that these are vital information in analyzing the state of the box office. Out of the csv files that were provided to us, we used the files from Box Office Mojo and The Numbers, as they had the information that we needed. However, we needed more data to work with including but not limited to data regarding sales of Microsofts video games. From Kaggle, we found a csv file with video game sales information along with their genre, console, studio etc. For further box office information we used webscraping to get tables from IMDb and The numbers website.
 
-` link to our clean ipnyb files will go here `
+For analysis and visualization on the csv files with Box Office Mojo and The Numbers website data:
 
+`see: Data_Cleaning_Visualization_v1.ipynb`
+
+For Webscraping from The Numbers website and the subsequent exploration and plots:
+
+`see: Data_scraping_visualization_v2.ipynb`
+
+Amir put your datasets information here:
+
+`see: name of the file u created`
 ### Queries
 We wanted to answer the following questions through our exploration and analysis of the collected data.
 
@@ -25,7 +34,20 @@ We wanted to answer the following questions through our exploration and analysis
 ### Visualizations
 After completeing exploratory data analysis to answer our questions, we made graphs to help visualize our findings for the non-technical audience. We have related one or more plots to each question.
 
-`- For Q1. see: link to figure or plot here for each question `
+`Q1. see: Data_Visualizations_PNG/Yearly_Worldwide_Gross.png `
+
+`Q2. see: Data_Visualizations_PNG/Global_Revenue_By_Decade.png`
+
+`Q3. see: Data_Visualizations_PNG/Ip_v_Original.png`
+
+`Amir you can add your graphs here`
+
+`Q4. see: Data_Visualizations_PNG/ROI_Profit_By_Budget.png`
+
+`Q5. see: Data_Visualizations_PNG/Blumhouse_Horror_Profits.png`
+
+`Q6. see: Data_Visualizations_PNG/Monthly_Revenues.png`
+
 
 ## Conclusion
 ### Reccomendations
