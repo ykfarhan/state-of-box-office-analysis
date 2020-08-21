@@ -16,7 +16,8 @@ For Webscraping from The Numbers website and the subsequent exploration and plot
 `see: Data_scraping_visualization_v2.ipynb`
 
 For the Webscraping of Box office Movies and and joining it with extra data(also cleaning and visualization) :
-`see: Adding Movie and Game data.ipynb
+
+`see: Adding Movie and Game data.ipynb`
 
 ### Queries
 We wanted to answer the following questions through our exploration and analysis of the collected data.
@@ -52,10 +53,10 @@ The Dataset Shown below is and example of some of the "safe" titles for each gen
 `Q5.`
 ![GitHub Logo](/Data_Visualizations_PNG/Blumhouse_Horror_Profits.png)
 `Q6.`
-![GitHub Logo](/Data_Visualizations_PNG/Monthly_Revenues.png)
+![GitHub Logo](/Data_Visualizations_PNG/Monthly_revenues.png)
 
 ## Conclusion
-### Reccomendations
+### Recommendations
 
 * Creating a new movie studio at this time is the right decision.
     * Global market has significantly changed in the past decade. Overseas revenue has increased by over 150%, which has garnered far greater profits for studios.
